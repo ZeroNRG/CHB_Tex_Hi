@@ -1,0 +1,57 @@
+# Blender MTL File: 'Chibi_Female.blend'
+# Material Count: 5
+
+newmtl Body_Mat
+Ns 378.431373
+Ka 1.000000 1.000000 1.000000
+Kd 0.104645 0.135387 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.065403 0.084617 0.500000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Textures\Chibi_Body_Diff_2.png
+
+newmtl Eye_L_Mat
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.595552 0.456097 0.639282
+Ks 0.000000 0.000000 0.000000
+Ke 0.186110 0.142530 0.199776
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd J:\UnrealProjects\EveryDayDystopia\Characters\LowPoly_Chibi\Textures\Eyes\Eye_Open.png
+
+newmtl Eye_R_Mat
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd J:\UnrealProjects\EveryDayDystopia\Characters\LowPoly_Chibi\Textures\Eyes\Eye_Open.png
+
+newmtl Head_Mat
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.639282 0.451769 0.313258
+Ks 0.000000 0.000000 0.000000
+Ke 0.199776 0.141178 0.097893
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Textures\Chibi_Head_Diff.png
+
+newmtl Mouth_Mat
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.595552 0.456097 0.639282
+Ks 0.000000 0.000000 0.000000
+Ke 0.186110 0.142530 0.199776
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Textures\Chibi_Body_Diff_2.png
